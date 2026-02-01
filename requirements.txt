@@ -1,0 +1,17 @@
+
+---
+
+## STEP 4: Create `requirements.txt`
+Create a file called **requirements.txt**:
+
+```txt
+numpy
+pandas
+scikit-learn
+tensorflow
+keras
+nltk
+spacy
+matplotlib
+seaborn
+jupyter
